@@ -1,0 +1,54 @@
+.sqad-cont{
+    display: flex;
+    align-items:center;
+    justify-content: center;
+
+}
+.el{
+    background-repeat: no-repeat;
+    background-size: 70px 70px;
+    background-position: center;
+}
+.whelephaunt{
+    background-image: url('/src/img/whelephaunt.png');
+}
+.whhourse{
+    background-image: url('/src/img/whhourse.png');
+}
+.whrook{
+    background-image: url('/src/img/whrook.png');
+}
+.whqueen{
+    background-image: url('/src/img/whqueen.png');
+}
+.whking{
+    background-image: url('/src/img/whking.png');
+}
+.whpawn{
+    background-image: url('/src/img/whpawn.png');
+}
+
+
+.blelephaunt{
+    background-image: url('/src/img/blelephaunt.png');
+}
+.blhourse{
+    background-image: url('/src/img/blhourse.png');
+}
+.blrook{
+    background-image: url('/src/img/blrook.png');
+}
+.blqueen{
+    background-image: url('/src/img/blqueen.png');
+}
+.blking{
+    background-image: url('/src/img/blking.png');
+}
+.blpawn{
+    background-image: url('/src/img/blpawn.png');
+}
+
+
+
+
+   

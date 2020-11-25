@@ -1,0 +1,16 @@
+.horizontalMain{
+    display: flex;
+    flex-direction: row;
+}
+.horizontalOne{
+    height: 100px;
+    width: 100px;
+    background-color: #F0D9B5;
+
+}
+.horizontalTwo{
+    height: 100px;
+    width: 100px;
+    background-color: #B58863;
+
+}
